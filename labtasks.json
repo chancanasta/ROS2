@@ -1,7 +1,7 @@
 [
   { "task_type":"Loop",
     "start_time":"0",
-    "priority":"2",
+    "priority":"0",
     "description":{ "num_loops":1,
                     "start_name":"tinyRobot1_charger",
                     "finish_name":"lounge"}},
@@ -12,7 +12,7 @@
   
   { "task_type":"Loop",
     "start_time":"0",
-    "priority":"1",
+    "priority":"2",
     "description":{ "num_loops":1,
                     "start_name":"tinyRobot1_charger",
                     "finish_name":"hardware_2"}},   
