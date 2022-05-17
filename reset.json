@@ -1,0 +1,15 @@
+[
+  { "task_type":"Loop",
+    "start_time":"0",
+    "priority":"0",
+    "description":{ "num_loops":1,
+                    "start_name":"pantry",
+                    "finish_name":"tinyRobot1_charger"}},
+   { "task_type":"Loop",
+    "start_time":"0",
+    "priority":"0",
+    "description":{ "num_loops":1,
+                    "start_name":"lounge",
+                    "finish_name":"tinyRobot2_charger"}}
+  
+]

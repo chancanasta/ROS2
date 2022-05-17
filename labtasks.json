@@ -1,0 +1,27 @@
+[
+  { "task_type":"Loop",
+    "start_time":"0",
+    "priority":"2",
+    "description":{ "num_loops":1,
+                    "start_name":"tinyRobot1_charger",
+                    "finish_name":"lounge"}},
+  { "task_type":"Delivery",
+    "start_time":"0",
+    "priority":"0",
+    "description":{"option":"coke"}},
+  
+  { "task_type":"Loop",
+    "start_time":"0",
+    "priority":"1",
+    "description":{ "num_loops":1,
+                    "start_name":"tinyRobot1_charger",
+                    "finish_name":"hardware_2"}},   
+  { "task_type":"Loop",
+    "start_time":"0",
+    "priority":"1",
+    "description":{ "num_loops":1,
+                    "start_name":"hardware_2",
+                    "finish_name":"tinyRobot2_charger"}}
+            
+                   
+]
